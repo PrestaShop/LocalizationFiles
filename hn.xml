@@ -7,10 +7,10 @@
                    	<language iso_code="es" />
         	</languages>
         	<taxes>
-                   	<tax id="1" name="ƏDV HN 12%" rate="12" />
+                   	<tax id="1" name="ƏDV HN 15%" rate="15" />
                    	<tax id="2" name="ƏDV HN 0%" rate="0" />
  
-                   	<taxRulesGroup name="HN Standard Rate (12%)">
+                   	<taxRulesGroup name="HN Standard Rate (15%)">
                                	<taxRule iso_code_country="hn" id_tax="1" />
                    	</taxRulesGroup>
  
