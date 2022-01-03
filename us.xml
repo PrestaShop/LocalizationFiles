@@ -276,7 +276,7 @@
 		<state name="Guam" iso_code="GU" country="US" zone="North America" />
 		<state name="Northern Mariana Islands" iso_code="MP" country="US" zone="North America" />
 		<state name="Puerto Rico" iso_code="PR" country="US" zone="North America" />
-		<state name="United States Minor Outlying Islands" iso_code="UM" country="US" zone="North America" />
+		<state name="US Minor Outlying Islands" iso_code="UM" country="US" zone="North America" />
 		<state name="US Virgin Islands" iso_code="VI" country="US" zone="North America" />
 	</states>
 	<units>
