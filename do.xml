@@ -58,7 +58,7 @@
 		<state name="Santiago Rodríguez" iso_code="26" country="DO" zone="Central America/Antilla" />
 		<state name="Santo Domingo" iso_code="32" country="DO" zone="Central America/Antilla" />
 		<state name="Valdesia" iso_code="41" country="DO" zone="Central America/Antilla" />
-		<state name="Valverde Province" iso_code="27" country="DO" zone="Central America/Antilla" />
+		<state name="Valverde" iso_code="27" country="DO" zone="Central America/Antilla" />
 		<state name="Yuma" iso_code="42" country="DO" zone="Central America/Antilla" />
 	</states>
 	<units>
