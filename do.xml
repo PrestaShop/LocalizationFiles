@@ -24,9 +24,10 @@
 		<state name="Barahona" iso_code="04" country="DO" zone="Central America/Antilla" />
 		<state name="Cibao Nordeste" iso_code="33" country="DO" zone="Central America/Antilla" />
 		<state name="Cibao Noroeste" iso_code="34" country="DO" zone="Central America/Antilla" />
+		<state name="Cibao Norte" iso_code="35" country="DO" zone="Central America/Antilla" />
 		<state name="Cibao Sur" iso_code="36" country="DO" zone="Central America/Antilla" />
 		<state name="Dajabón" iso_code="05" country="DO" zone="Central America/Antilla" />
-		<state name="Distrito Nacional (Santo Domingo)" iso_code="01" country="DO" zone="Central America/Antilla" />
+		<state name="Santo Domingo" iso_code="01" country="DO" zone="Central America/Antilla" />
 		<state name="Duarte" iso_code="06" country="DO" zone="Central America/Antilla" />
 		<state name="El Seibo" iso_code="08" country="DO" zone="Central America/Antilla" />
 		<state name="El Valle" iso_code="37" country="DO" zone="Central America/Antilla" />
