@@ -132,6 +132,98 @@
       <taxRule iso_code_country="sk" id_tax="30"/>
     </taxRulesGroup>
   </taxes>
+	<states>
+		<state name="Benešov" iso_code="201" country="CZ" zone="Europe" />
+		<state name="Beroun" iso_code="202" country="CZ" zone="Europe" />
+		<state name="Blansko" iso_code="641" country="CZ" zone="Europe" />
+		<state name="Břeclav" iso_code="644" country="CZ" zone="Europe" />
+		<state name="Brno-město" iso_code="642" country="CZ" zone="Europe" />
+		<state name="Brno-venkov" iso_code="643" country="CZ" zone="Europe" />
+		<state name="Bruntál" iso_code="801" country="CZ" zone="Europe" />
+		<state name="Česká Lípa" iso_code="511" country="CZ" zone="Europe" />
+		<state name="České Budějovice" iso_code="311" country="CZ" zone="Europe" />
+		<state name="Český Krumlov" iso_code="312" country="CZ" zone="Europe" />
+		<state name="Cheb" iso_code="411" country="CZ" zone="Europe" />
+		<state name="Chomutov" iso_code="422" country="CZ" zone="Europe" />
+		<state name="Chrudim" iso_code="531" country="CZ" zone="Europe" />
+		<state name="Děčín" iso_code="421" country="CZ" zone="Europe" />
+		<state name="Domažlice" iso_code="321" country="CZ" zone="Europe" />
+		<state name="Frýdek-Místek" iso_code="802" country="CZ" zone="Europe" />
+		<state name="Havlíčkův Brod" iso_code="631" country="CZ" zone="Europe" />
+		<state name="Hodonín" iso_code="645" country="CZ" zone="Europe" />
+		<state name="Hradec Králové" iso_code="521" country="CZ" zone="Europe" />
+		<state name="Jablonec nad Nisou" iso_code="512" country="CZ" zone="Europe" />
+		<state name="Jeseník" iso_code="711" country="CZ" zone="Europe" />
+		<state name="Jičín" iso_code="522" country="CZ" zone="Europe" />
+		<state name="Jihlava" iso_code="632" country="CZ" zone="Europe" />
+		<state name="Jihočeský kraj" iso_code="31" country="CZ" zone="Europe" />
+		<state name="Jihomoravský kraj" iso_code="64" country="CZ" zone="Europe" />
+		<state name="Jindřichův Hradec" iso_code="313" country="CZ" zone="Europe" />
+		<state name="Karlovarský kraj" iso_code="41" country="CZ" zone="Europe" />
+		<state name="Karlovy Vary" iso_code="412" country="CZ" zone="Europe" />
+		<state name="Karviná" iso_code="803" country="CZ" zone="Europe" />
+		<state name="Kladno" iso_code="203" country="CZ" zone="Europe" />
+		<state name="Klatovy" iso_code="322" country="CZ" zone="Europe" />
+		<state name="Kolín" iso_code="204" country="CZ" zone="Europe" />
+		<state name="Kraj Vysočina" iso_code="63" country="CZ" zone="Europe" />
+		<state name="Královéhradecký kraj" iso_code="52" country="CZ" zone="Europe" />
+		<state name="Kroměříž" iso_code="721" country="CZ" zone="Europe" />
+		<state name="Kutná Hora" iso_code="205" country="CZ" zone="Europe" />
+		<state name="Liberec" iso_code="513" country="CZ" zone="Europe" />
+		<state name="Liberecký kraj" iso_code="51" country="CZ" zone="Europe" />
+		<state name="Litoměřice" iso_code="423" country="CZ" zone="Europe" />
+		<state name="Louny" iso_code="424" country="CZ" zone="Europe" />
+		<state name="Mělník" iso_code="206" country="CZ" zone="Europe" />
+		<state name="Mladá Boleslav" iso_code="207" country="CZ" zone="Europe" />
+		<state name="Moravskoslezský kraj" iso_code="80" country="CZ" zone="Europe" />
+		<state name="Most" iso_code="425" country="CZ" zone="Europe" />
+		<state name="Náchod" iso_code="523" country="CZ" zone="Europe" />
+		<state name="Nový Jičín" iso_code="804" country="CZ" zone="Europe" />
+		<state name="Nymburk" iso_code="208" country="CZ" zone="Europe" />
+		<state name="Olomouc" iso_code="712" country="CZ" zone="Europe" />
+		<state name="Olomoucký kraj" iso_code="71" country="CZ" zone="Europe" />
+		<state name="Opava" iso_code="805" country="CZ" zone="Europe" />
+		<state name="Ostrava-město" iso_code="806" country="CZ" zone="Europe" />
+		<state name="Pardubice" iso_code="532" country="CZ" zone="Europe" />
+		<state name="Pardubický kraj" iso_code="53" country="CZ" zone="Europe" />
+		<state name="Pelhřimov" iso_code="633" country="CZ" zone="Europe" />
+		<state name="Písek" iso_code="314" country="CZ" zone="Europe" />
+		<state name="Plzeň-jih" iso_code="324" country="CZ" zone="Europe" />
+		<state name="Plzeň-město" iso_code="323" country="CZ" zone="Europe" />
+		<state name="Plzeň-sever" iso_code="325" country="CZ" zone="Europe" />
+		<state name="Plzeňský kraj" iso_code="32" country="CZ" zone="Europe" />
+		<state name="Prachatice" iso_code="315" country="CZ" zone="Europe" />
+		<state name="Praha-východ" iso_code="209" country="CZ" zone="Europe" />
+		<state name="Praha-západ" iso_code="20A" country="CZ" zone="Europe" />
+		<state name="Praha, Hlavní město" iso_code="10" country="CZ" zone="Europe" />
+		<state name="Přerov" iso_code="714" country="CZ" zone="Europe" />
+		<state name="Příbram" iso_code="20B" country="CZ" zone="Europe" />
+		<state name="Prostějov" iso_code="713" country="CZ" zone="Europe" />
+		<state name="Rakovník" iso_code="20C" country="CZ" zone="Europe" />
+		<state name="Rokycany" iso_code="326" country="CZ" zone="Europe" />
+		<state name="Rychnov nad Kněžnou" iso_code="524" country="CZ" zone="Europe" />
+		<state name="Semily" iso_code="514" country="CZ" zone="Europe" />
+		<state name="Sokolov" iso_code="413" country="CZ" zone="Europe" />
+		<state name="Strakonice" iso_code="316" country="CZ" zone="Europe" />
+		<state name="Středočeský kraj" iso_code="20" country="CZ" zone="Europe" />
+		<state name="Šumperk" iso_code="715" country="CZ" zone="Europe" />
+		<state name="Svitavy" iso_code="533" country="CZ" zone="Europe" />
+		<state name="Tábor" iso_code="317" country="CZ" zone="Europe" />
+		<state name="Tachov" iso_code="327" country="CZ" zone="Europe" />
+		<state name="Teplice" iso_code="426" country="CZ" zone="Europe" />
+		<state name="Třebíč" iso_code="634" country="CZ" zone="Europe" />
+		<state name="Trutnov" iso_code="525" country="CZ" zone="Europe" />
+		<state name="Uherské Hradiště" iso_code="722" country="CZ" zone="Europe" />
+		<state name="Ústecký kraj" iso_code="42" country="CZ" zone="Europe" />
+		<state name="Ústí nad Labem" iso_code="427" country="CZ" zone="Europe" />
+		<state name="Ústí nad Orlicí" iso_code="534" country="CZ" zone="Europe" />
+		<state name="Vsetín" iso_code="723" country="CZ" zone="Europe" />
+		<state name="Vyškov" iso_code="646" country="CZ" zone="Europe" />
+		<state name="Žďár nad Sázavou" iso_code="635" country="CZ" zone="Europe" />
+		<state name="Zlín" iso_code="724" country="CZ" zone="Europe" />
+		<state name="Zlínský kraj" iso_code="72" country="CZ" zone="Europe" />
+		<state name="Znojmo" iso_code="647" country="CZ" zone="Europe" />
+	</states>
   <units>
     <unit type="weight" value="kg"/>
     <unit type="volume" value="L"/>
