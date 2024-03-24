@@ -131,6 +131,254 @@
       <taxRule iso_code_country="sk" id_tax="30"/>
     </taxRulesGroup>
   </taxes>
+  <states>
+		<state name="Aberdeen City" iso_code="ABE" country="GB" zone="Europe (non-EU)" />
+		<state name="Aberdeenshire" iso_code="ABD" country="GB" zone="Europe (non-EU)" />
+		<state name="Angus" iso_code="ANS" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Antrim" iso_code="ANT" country="GB" zone="Europe (non-EU)" -->
+		<state name="Antrim and Newtownabbey" iso_code="ANN" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Ards" iso_code="ARD" country="GB" zone="Europe (non-EU)" -->
+		<state name="Ards and North Down" iso_code="AND" country="GB" zone="Europe (non-EU)" />
+		<state name="Argyll and Bute" iso_code="AGB" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Armagh City and District Council" iso_code="ARM" country="GB" zone="Europe (non-EU)" -->
+		<state name="Armagh, Banbridge and Craigavon" iso_code="ABC" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Ballymena Borough" iso_code="BLA" country="GB" zone="Europe (non-EU)" -->
+		<!-- Deleted from ISO 2015-11-27 state name="Ballymoney" iso_code="BLY" country="GB" zone="Europe (non-EU)" -->
+		<!-- Deleted from ISO 2015-11-27 state name="Banbridge" iso_code="BNB" country="GB" zone="Europe (non-EU)" -->
+		<state name="Barnsley" iso_code="BNS" country="GB" zone="Europe (non-EU)" />
+		<state name="Bath and North East Somerset" iso_code="BAS" country="GB" zone="Europe (non-EU)" />
+		<state name="Bedford" iso_code="BDF" country="GB" zone="Europe (non-EU)" />
+		<state name="Belfast City" iso_code="BFS" country="GB" zone="Europe (non-EU)" />
+		<state name="Birmingham" iso_code="BIR" country="GB" zone="Europe (non-EU)" />
+		<state name="Blackburn with Darwen" iso_code="BBD" country="GB" zone="Europe (non-EU)" />
+		<state name="Blackpool" iso_code="BPL" country="GB" zone="Europe (non-EU)" />
+		<state name="Blaenau Gwent" iso_code="BGW" country="GB" zone="Europe (non-EU)" />
+		<state name="Bolton" iso_code="BOL" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2020-11-24 state name="Bournemouth" iso_code="BMH" country="GB" zone="Europe (non-EU)" -->
+    <state name="Bournemouth, Christchurch and Poole" iso_code="BCP" country="GB" zone="Europe (non-EU)" />
+		<state name="Bracknell Forest" iso_code="BRC" country="GB" zone="Europe (non-EU)" />
+		<state name="Bradford" iso_code="BRD" country="GB" zone="Europe (non-EU)" />
+		<state name="Bridgend" iso_code="BGE" country="GB" zone="Europe (non-EU)" />
+		<state name="Brighton and Hove" iso_code="BNH" country="GB" zone="Europe (non-EU)" />
+		<state name="Buckinghamshire" iso_code="BKM" country="GB" zone="Europe (non-EU)" />
+		<state name="Bury" iso_code="BUR" country="GB" zone="Europe (non-EU)" />
+		<state name="Caerphilly" iso_code="CAY" country="GB" zone="Europe (non-EU)" />
+		<state name="Calderdale" iso_code="CLD" country="GB" zone="Europe (non-EU)" />
+		<state name="Cambridgeshire" iso_code="CAM" country="GB" zone="Europe (non-EU)" />
+		<state name="Carmarthenshire" iso_code="CMN" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Carrickfergus Borough Council" iso_code="CKF" country="GB" zone="Europe (non-EU)" -->
+		<!-- Deleted from ISO 2015-11-27 state name="Castlereagh" iso_code="CSR" country="GB" zone="Europe (non-EU)" -->
+		<state name="Causeway Coast and Glens" iso_code="CCG" country="GB" zone="Europe (non-EU)" />
+		<state name="Central Bedfordshire" iso_code="CBF" country="GB" zone="Europe (non-EU)" />
+		<state name="Ceredigion" iso_code="CGN" country="GB" zone="Europe (non-EU)" />
+		<state name="Cheshire East" iso_code="CHE" country="GB" zone="Europe (non-EU)" />
+		<state name="Cheshire West and Chester" iso_code="CHW" country="GB" zone="Europe (non-EU)" />
+		<state name="City and County of Cardiff" iso_code="CRF" country="GB" zone="Europe (non-EU)" />
+		<state name="City and County of Swansea" iso_code="SWA" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Bristol" iso_code="BST" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Derby" iso_code="DER" country="GB" zone="Europe (non-EU)" />
+    <state name="City of Dundee" iso_code="DND" country="GB" zone="Europe (non-EU)" />
+    <state name="City of Edinburgh" iso_code="EDH" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Kingston upon Hull" iso_code="KHL" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Leicester" iso_code="LCE" country="GB" zone="Europe (non-EU)" />
+		<state name="City of London" iso_code="LND" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Nottingham" iso_code="NGM" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Peterborough" iso_code="PTE" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Plymouth" iso_code="PLY" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Portsmouth" iso_code="POR" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Southampton" iso_code="STH" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Stoke-on-Trent" iso_code="STE" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Sunderland" iso_code="SND" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Westminster" iso_code="WSM" country="GB" zone="Europe (non-EU)" />
+		<state name="City of Wolverhampton" iso_code="WLV" country="GB" zone="Europe (non-EU)" />
+		<state name="City of York" iso_code="YOR" country="GB" zone="Europe (non-EU)" />
+		<state name="Clackmannanshire" iso_code="CLK" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Coleraine Borough Council" iso_code="CLR" country="GB" zone="Europe (non-EU)" -->
+		<state name="Conwy" iso_code="CWY" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Cookstown District Council" iso_code="CKT" country="GB" zone="Europe (non-EU)" -->
+		<state name="Cornwall" iso_code="CON" country="GB" zone="Europe (non-EU)" />
+		<state name="Coventry" iso_code="COV" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Craigavon Borough Council" iso_code="CGV" country="GB" zone="Europe (non-EU)" -->
+		<state name="Cumbria" iso_code="CMA" country="GB" zone="Europe (non-EU)" />
+		<state name="Darlington" iso_code="DAL" country="GB" zone="Europe (non-EU)" />
+		<state name="Denbighshire" iso_code="DEN" country="GB" zone="Europe (non-EU)" />
+		<state name="Derbyshire" iso_code="DBY" country="GB" zone="Europe (non-EU)" />
+		<state name="Derry and Strabane" iso_code="DRS" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Derry City Council" iso_code="DRY" country="GB" zone="Europe (non-EU)" -->
+		<state name="Devon" iso_code="DEV" country="GB" zone="Europe (non-EU)" />
+		<state name="Doncaster" iso_code="DNC" country="GB" zone="Europe (non-EU)" />
+		<state name="Dorset" iso_code="DOR" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Down District Council" iso_code="DOW" country="GB" zone="Europe (non-EU)" -->
+		<state name="Dudley" iso_code="DUD" country="GB" zone="Europe (non-EU)" />
+		<state name="Dumfries and Galloway" iso_code="DGY" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Dungannon and South Tyrone Borough Council" iso_code="DGN" country="GB" zone="Europe (non-EU)" -->
+    <state name="Durham, County" iso_code="DUR" country="GB" zone="Europe (non-EU)" />
+		<state name="East Ayrshire" iso_code="EAY" country="GB" zone="Europe (non-EU)" />
+		<state name="East Dunbartonshire" iso_code="EDU" country="GB" zone="Europe (non-EU)" />
+		<state name="East Lothian" iso_code="ELN" country="GB" zone="Europe (non-EU)" />
+		<state name="East Renfrewshire" iso_code="ERW" country="GB" zone="Europe (non-EU)" />
+		<state name="East Riding of Yorkshire" iso_code="ERY" country="GB" zone="Europe (non-EU)" />
+		<state name="East Sussex" iso_code="ESX" country="GB" zone="Europe (non-EU)" />
+		<state name="England" iso_code="ENG" country="GB" zone="Europe (non-EU)" />
+		<state name="Essex" iso_code="ESS" country="GB" zone="Europe (non-EU)" />
+		<state name="Falkirk" iso_code="FAL" country="GB" zone="Europe (non-EU)" />
+		<state name="Fermanagh and Omagh" iso_code="FMO" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Fermanagh District Council" iso_code="FER" country="GB" zone="Europe (non-EU)" -->
+		<state name="Fife" iso_code="FIF" country="GB" zone="Europe (non-EU)" />
+		<state name="Flintshire" iso_code="FLN" country="GB" zone="Europe (non-EU)" />
+		<state name="Gateshead" iso_code="GAT" country="GB" zone="Europe (non-EU)" />
+		<state name="Glasgow City" iso_code="GLG" country="GB" zone="Europe (non-EU)" />
+		<state name="Gloucestershire" iso_code="GLS" country="GB" zone="Europe (non-EU)" />
+		<state name="Gwynedd" iso_code="GWN" country="GB" zone="Europe (non-EU)" />
+		<state name="Halton" iso_code="HAL" country="GB" zone="Europe (non-EU)" />
+		<state name="Hampshire" iso_code="HAM" country="GB" zone="Europe (non-EU)" />
+		<state name="Hartlepool" iso_code="HPL" country="GB" zone="Europe (non-EU)" />
+		<state name="Herefordshire" iso_code="HEF" country="GB" zone="Europe (non-EU)" />
+		<state name="Hertfordshire" iso_code="HRT" country="GB" zone="Europe (non-EU)" />
+		<state name="Highland" iso_code="HLD" country="GB" zone="Europe (non-EU)" />
+		<state name="Inverclyde" iso_code="IVC" country="GB" zone="Europe (non-EU)" />
+		<state name="Isle of Wight" iso_code="IOW" country="GB" zone="Europe (non-EU)" />
+		<state name="Isles of Scilly" iso_code="IOS" country="GB" zone="Europe (non-EU)" />
+		<state name="Kent" iso_code="KEN" country="GB" zone="Europe (non-EU)" />
+		<state name="Kirklees" iso_code="KIR" country="GB" zone="Europe (non-EU)" />
+		<state name="Knowsley" iso_code="KWL" country="GB" zone="Europe (non-EU)" />
+		<state name="Lancashire" iso_code="LAN" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Larne Borough Council" iso_code="LRN" country="GB" zone="Europe (non-EU)" -->
+		<state name="Leeds" iso_code="LDS" country="GB" zone="Europe (non-EU)" />
+		<state name="Leicestershire" iso_code="LEC" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Limavady Borough Council" iso_code="LMV" country="GB" zone="Europe (non-EU)" -->
+		<state name="Lincolnshire" iso_code="LIN" country="GB" zone="Europe (non-EU)" />
+		<state name="Lisburn and Castlereagh" iso_code="LBC" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Lisburn City Council" iso_code="LSB" country="GB" zone="Europe (non-EU)" -->
+		<state name="Liverpool" iso_code="LIV" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Barking and Dagenham" iso_code="BDG" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Barnet" iso_code="BNE" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Bexley" iso_code="BEX" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Brent" iso_code="BEN" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Bromley" iso_code="BRY" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Camden" iso_code="CMD" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Croydon" iso_code="CRY" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Ealing" iso_code="EAL" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Enfield" iso_code="ENF" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Hackney" iso_code="HCK" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Hammersmith and Fulham" iso_code="HMF" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Haringey" iso_code="HRY" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Harrow" iso_code="HRW" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Havering" iso_code="HAV" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Hillingdon" iso_code="HIL" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Hounslow" iso_code="HNS" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Islington" iso_code="ISL" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Lambeth" iso_code="LBH" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Lewisham" iso_code="LEW" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Merton" iso_code="MRT" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Newham" iso_code="NWM" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Redbridge" iso_code="RDB" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Richmond upon Thames" iso_code="RIC" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Southwark" iso_code="SWK" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Sutton" iso_code="STN" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Tower Hamlets" iso_code="TWH" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Waltham Forest" iso_code="WFT" country="GB" zone="Europe (non-EU)" />
+		<state name="London Borough of Wandsworth" iso_code="WND" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Magherafelt District Council" iso_code="MFT" country="GB" zone="Europe (non-EU)" -->
+    <state name="Luton" iso_code="LUT" country="GB" zone="Europe (non-EU)" />
+		<state name="Manchester" iso_code="MAN" country="GB" zone="Europe (non-EU)" />
+		<state name="Medway" iso_code="MDW" country="GB" zone="Europe (non-EU)" />
+		<state name="Merthyr Tydfil" iso_code="MTY" country="GB" zone="Europe (non-EU)" />
+		<state name="Metropolitan Borough of Wigan" iso_code="WGN" country="GB" zone="Europe (non-EU)" />
+		<state name="Mid and East Antrim" iso_code="MEA" country="GB" zone="Europe (non-EU)" />
+		<state name="Mid Ulster" iso_code="MUL" country="GB" zone="Europe (non-EU)" />
+		<state name="Middlesbrough" iso_code="MDB" country="GB" zone="Europe (non-EU)" />
+		<state name="Midlothian" iso_code="MLN" country="GB" zone="Europe (non-EU)" />
+		<state name="Milton Keynes" iso_code="MIK" country="GB" zone="Europe (non-EU)" />
+		<state name="Monmouthshire" iso_code="MON" country="GB" zone="Europe (non-EU)" />
+		<state name="Moray" iso_code="MRY" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Moyle District Council" iso_code="MYL" country="GB" zone="Europe (non-EU)" -->
+		<state name="Neath Port Talbot" iso_code="NTL" country="GB" zone="Europe (non-EU)" />
+		<state name="Newcastle upon Tyne" iso_code="NET" country="GB" zone="Europe (non-EU)" />
+		<state name="Newport" iso_code="NWP" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Newry and Mourne District Council" iso_code="NYM" country="GB" zone="Europe (non-EU)" -->
+		<state name="Newry, Mourne and Down" iso_code="NMD" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Newtownabbey Borough Council" iso_code="NTA" country="GB" zone="Europe (non-EU)" -->
+		<state name="Norfolk" iso_code="NFK" country="GB" zone="Europe (non-EU)" />
+		<state name="North Ayrshire" iso_code="NAY" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="North Down Borough Council" iso_code="NDN" country="GB" zone="Europe (non-EU)" -->
+		<state name="North East Lincolnshire" iso_code="NEL" country="GB" zone="Europe (non-EU)" />
+		<state name="North Lanarkshire" iso_code="NLK" country="GB" zone="Europe (non-EU)" />
+		<state name="North Lincolnshire" iso_code="NLN" country="GB" zone="Europe (non-EU)" />
+		<state name="North Somerset" iso_code="NSM" country="GB" zone="Europe (non-EU)" />
+		<state name="North Tyneside" iso_code="NTY" country="GB" zone="Europe (non-EU)" />
+		<state name="North Yorkshire" iso_code="NYK" country="GB" zone="Europe (non-EU)" />
+		<state name="Northamptonshire" iso_code="NTH" country="GB" zone="Europe (non-EU)" />
+		<state name="Northern Ireland" iso_code="NIR" country="GB" zone="Europe (non-EU)" />
+		<state name="Northumberland" iso_code="NBL" country="GB" zone="Europe (non-EU)" />
+		<state name="Nottinghamshire" iso_code="NTT" country="GB" zone="Europe (non-EU)" />
+		<state name="Oldham" iso_code="OLD" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Omagh District Council" iso_code="OMH" country="GB" zone="Europe (non-EU)" -->
+		<state name="Orkney Islands" iso_code="ORK" country="GB" zone="Europe (non-EU)" />
+		<state name="Eilean Siar (Outer Hebrides)" iso_code="ELS" country="GB" zone="Europe (non-EU)" />
+		<state name="Oxfordshire" iso_code="OXF" country="GB" zone="Europe (non-EU)" />
+		<state name="Pembrokeshire" iso_code="PEM" country="GB" zone="Europe (non-EU)" />
+		<state name="Perth and Kinross" iso_code="PKN" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2020-11-24 state name="Poole" iso_code="POL" country="GB" zone="Europe (non-EU)" -->
+		<state name="Powys" iso_code="POW" country="GB" zone="Europe (non-EU)" />
+		<state name="Reading" iso_code="RDG" country="GB" zone="Europe (non-EU)" />
+		<state name="Redcar and Cleveland" iso_code="RCC" country="GB" zone="Europe (non-EU)" />
+		<state name="Renfrewshire" iso_code="RFW" country="GB" zone="Europe (non-EU)" />
+		<state name="Rhondda Cynon Taff" iso_code="RCT" country="GB" zone="Europe (non-EU)" />
+		<state name="Rochdale" iso_code="RCH" country="GB" zone="Europe (non-EU)" />
+		<state name="Rotherham" iso_code="ROT" country="GB" zone="Europe (non-EU)" />
+		<state name="Royal Borough of Greenwich" iso_code="GRE" country="GB" zone="Europe (non-EU)" />
+		<state name="Royal Borough of Kensington and Chelsea" iso_code="KEC" country="GB" zone="Europe (non-EU)" />
+		<state name="Royal Borough of Kingston upon Thames" iso_code="KTT" country="GB" zone="Europe (non-EU)" />
+		<state name="Rutland" iso_code="RUT" country="GB" zone="Europe (non-EU)" />
+		<state name="Salford" iso_code="SLF" country="GB" zone="Europe (non-EU)" />
+		<state name="Sandwell" iso_code="SAW" country="GB" zone="Europe (non-EU)" />
+		<state name="Scotland" iso_code="SCT" country="GB" zone="Europe (non-EU)" />
+		<state name="Scottish Borders" iso_code="SCB" country="GB" zone="Europe (non-EU)" />
+		<state name="Sefton" iso_code="SFT" country="GB" zone="Europe (non-EU)" />
+		<state name="Sheffield" iso_code="SHF" country="GB" zone="Europe (non-EU)" />
+		<state name="Shetland Islands" iso_code="ZET" country="GB" zone="Europe (non-EU)" />
+		<state name="Shropshire" iso_code="SHR" country="GB" zone="Europe (non-EU)" />
+		<state name="Slough" iso_code="SLG" country="GB" zone="Europe (non-EU)" />
+		<state name="Solihull" iso_code="SOL" country="GB" zone="Europe (non-EU)" />
+		<state name="Somerset" iso_code="SOM" country="GB" zone="Europe (non-EU)" />
+		<state name="South Ayrshire" iso_code="SAY" country="GB" zone="Europe (non-EU)" />
+		<state name="South Gloucestershire" iso_code="SGC" country="GB" zone="Europe (non-EU)" />
+		<state name="South Lanarkshire" iso_code="SLK" country="GB" zone="Europe (non-EU)" />
+		<state name="South Tyneside" iso_code="STY" country="GB" zone="Europe (non-EU)" />
+		<state name="Southend-on-Sea" iso_code="SOS" country="GB" zone="Europe (non-EU)" />
+		<state name="St Helens" iso_code="SHN" country="GB" zone="Europe (non-EU)" />
+		<state name="Staffordshire" iso_code="STS" country="GB" zone="Europe (non-EU)" />
+		<state name="Stirling" iso_code="STG" country="GB" zone="Europe (non-EU)" />
+		<state name="Stockport" iso_code="SKP" country="GB" zone="Europe (non-EU)" />
+		<state name="Stockton-on-Tees" iso_code="STT" country="GB" zone="Europe (non-EU)" />
+		<!-- Deleted from ISO 2015-11-27 state name="Strabane District Council" iso_code="STB" country="GB" zone="Europe (non-EU)" -->
+		<state name="Suffolk" iso_code="SFK" country="GB" zone="Europe (non-EU)" />
+		<state name="Surrey" iso_code="SRY" country="GB" zone="Europe (non-EU)" />
+		<state name="Swindon" iso_code="SWD" country="GB" zone="Europe (non-EU)" />
+		<state name="Tameside" iso_code="TAM" country="GB" zone="Europe (non-EU)" />
+		<state name="Telford and Wrekin" iso_code="TFW" country="GB" zone="Europe (non-EU)" />
+		<state name="Thurrock" iso_code="THR" country="GB" zone="Europe (non-EU)" />
+		<state name="Torbay" iso_code="TOB" country="GB" zone="Europe (non-EU)" />
+		<state name="Torfaen" iso_code="TOF" country="GB" zone="Europe (non-EU)" />
+		<state name="Trafford" iso_code="TRF" country="GB" zone="Europe (non-EU)" />
+		<state name="Vale of Glamorgan" iso_code="VGL" country="GB" zone="Europe (non-EU)" />
+		<state name="Wakefield" iso_code="WKF" country="GB" zone="Europe (non-EU)" />
+		<state name="Wales" iso_code="WLS" country="GB" zone="Europe (non-EU)" />
+		<state name="Walsall" iso_code="WLL" country="GB" zone="Europe (non-EU)" />
+		<state name="Warrington" iso_code="WRT" country="GB" zone="Europe (non-EU)" />
+		<state name="Warwickshire" iso_code="WAR" country="GB" zone="Europe (non-EU)" />
+		<state name="West Berkshire" iso_code="WBK" country="GB" zone="Europe (non-EU)" />
+		<state name="West Dunbartonshire" iso_code="WDU" country="GB" zone="Europe (non-EU)" />
+		<state name="West Lothian" iso_code="WLN" country="GB" zone="Europe (non-EU)" />
+		<state name="West Sussex" iso_code="WSX" country="GB" zone="Europe (non-EU)" />
+		<state name="Wiltshire" iso_code="WIL" country="GB" zone="Europe (non-EU)" />
+		<state name="Windsor and Maidenhead" iso_code="WNM" country="GB" zone="Europe (non-EU)" />
+		<state name="Wirral" iso_code="WRL" country="GB" zone="Europe (non-EU)" />
+		<state name="Wokingham" iso_code="WOK" country="GB" zone="Europe (non-EU)" />
+		<state name="Worcestershire" iso_code="WOR" country="GB" zone="Europe (non-EU)" />
+		<state name="Wrexham" iso_code="WRX" country="GB" zone="Europe (non-EU)" />
+	</states>
   <units>
     <unit type="weight" value="Kg"/>
     <unit type="volume" value="L"/>
