@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<localizationPack name="Honduras" version="1.0">
+	<currencies>
+		<currency name="Lempira" iso_code="HNL" iso_code_num="340" sign="L" blank="1" format="2" decimals="1" />
+	</currencies>
+	<languages>
+		<language iso_code="es" />
+	</languages>
+	<taxes>
+		<tax id="1" name="IVA HN 15%" rate="15" />
+
+		<taxRulesGroup name="HN Standard Rate (15%)">
+			<taxRule iso_code_country="hn" id_tax="1" />
+		</taxRulesGroup>
+	</taxes>
+	<states>
+		<state name="Atlántida" iso_code="AT" country="HN" zone="Central America/Antilla" />
+		<state name="Choluteca" iso_code="CH" country="HN" zone="Central America/Antilla" />
+		<state name="Colón" iso_code="CL" country="HN" zone="Central America/Antilla" />
+		<state name="Comayagua" iso_code="CM" country="HN" zone="Central America/Antilla" />
+		<state name="Copán" iso_code="CP" country="HN" zone="Central America/Antilla" />
+		<state name="Cortés" iso_code="CR" country="HN" zone="Central America/Antilla" />
+		<state name="El Paraíso" iso_code="EP" country="HN" zone="Central America/Antilla" />
+		<state name="Francisco Morazán" iso_code="FM" country="HN" zone="Central America/Antilla" />
+		<state name="Gracias a Dios" iso_code="GD" country="HN" zone="Central America/Antilla" />
+		<state name="Intibucá" iso_code="IN" country="HN" zone="Central America/Antilla" />
+		<state name="Islas de la Bahía" iso_code="IB" country="HN" zone="Central America/Antilla" />
+		<state name="La Paz" iso_code="LP" country="HN" zone="Central America/Antilla" />
+		<state name="Lempíra" iso_code="LM" country="HN" zone="Central America/Antilla" />
+		<state name="Ocotepeque" iso_code="OC" country="HN" zone="Central America/Antilla" />
+		<state name="Olancho" iso_code="OL" country="HN" zone="Central America/Antilla" />
+		<state name="Santa Barbara" iso_code="SB" country="HN" zone="Central America/Antilla" />
+		<state name="Valle" iso_code="VL" country="HN" zone="Central America/Antilla" />
+		<state name="Yoro" iso_code="YO" country="HN" zone="Central America/Antilla" />
+
+	</states>
+	<units>
+		<unit type="weight" value="kg" />
+		<unit type="volume" value="L" />
+		<unit type="short_distance" value="cm" />
+		<unit type="base_distance" value="m" />
+		<unit type="long_distance" value="km" />
+	</units>
+</localizationPack>
