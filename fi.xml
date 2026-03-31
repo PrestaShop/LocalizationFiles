@@ -8,7 +8,7 @@
   </languages>
   <taxes>
     <tax id="1" name="ALV FI 25.5%" rate="25.5" eu-tax-group="virtual"/>
-    <tax id="2" name="ALV FI 14%" rate="14"/>
+    <tax id="2" name="ALV FI 13.5%" rate="13.5"/>
     <tax id="3" name="ALV FI 10%" rate="10"/>
     <tax id="4" name="USt. AT 20%" rate="20" auto-generated="1" from-eu-tax-group="virtual"/>
     <tax id="5" name="TVA BE 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
@@ -69,7 +69,7 @@
       <taxRule iso_code_country="se" id_tax="1"/>
       <taxRule iso_code_country="gb" id_tax="1"/>
     </taxRulesGroup>
-    <taxRulesGroup name="FI Reduced Rate (14%)">
+    <taxRulesGroup name="FI Reduced Rate (13.5%)">
       <taxRule iso_code_country="be" id_tax="2"/>
       <taxRule iso_code_country="bg" id_tax="2"/>
       <taxRule iso_code_country="cz" id_tax="2"/>
@@ -131,7 +131,7 @@
       <taxRule iso_code_country="se" id_tax="3"/>
       <taxRule iso_code_country="gb" id_tax="3"/>
     </taxRulesGroup>
-    <taxRulesGroup name="FI Foodstuff Rate (14%)">
+    <taxRulesGroup name="FI Foodstuff Rate (13.5%)">
       <taxRule iso_code_country="be" id_tax="2"/>
       <taxRule iso_code_country="bg" id_tax="2"/>
       <taxRule iso_code_country="cz" id_tax="2"/>
