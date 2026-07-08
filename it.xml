@@ -231,7 +231,7 @@
     <state name="Agrigento" iso_code="AG" country="IT" zone="Europe"/>
     <state name="Alessandria" iso_code="AL" country="IT" zone="Europe"/>
     <state name="Ancona" iso_code="AN" country="IT" zone="Europe"/>
-    <state name="Aosta" iso_code="AO" country="IT" zone="Europe"/>
+    <state name="Valle d'Aosta" iso_code="AO" country="IT" zone="Europe"/>
     <state name="Arezzo" iso_code="AR" country="IT" zone="Europe"/>
     <state name="Ascoli Piceno" iso_code="AP" country="IT" zone="Europe"/>
     <state name="Asti" iso_code="AT" country="IT" zone="Europe"/>
@@ -280,7 +280,7 @@
     <state name="Lucca" iso_code="LU" country="IT" zone="Europe"/>
     <state name="Macerata" iso_code="MC" country="IT" zone="Europe"/>
     <state name="Mantova" iso_code="MN" country="IT" zone="Europe"/>
-    <state name="Massa" iso_code="MS" country="IT" zone="Europe"/>
+    <state name="Massa-Carrara" iso_code="MS" country="IT" zone="Europe"/>
     <state name="Matera" iso_code="MT" country="IT" zone="Europe"/>
     <state name="Messina" iso_code="ME" country="IT" zone="Europe"/>
     <state name="Milano" iso_code="MI" country="IT" zone="Europe"/>
@@ -295,7 +295,7 @@
     <state name="Parma" iso_code="PR" country="IT" zone="Europe"/>
     <state name="Pavia" iso_code="PV" country="IT" zone="Europe"/>
     <state name="Perugia" iso_code="PG" country="IT" zone="Europe"/>
-    <state name="Pesaro-Urbino" iso_code="PU" country="IT" zone="Europe"/>
+    <state name="Pesaro e Urbino" iso_code="PU" country="IT" zone="Europe"/>
     <state name="Pescara" iso_code="PE" country="IT" zone="Europe"/>
     <state name="Piacenza" iso_code="PC" country="IT" zone="Europe"/>
     <state name="Pisa" iso_code="PI" country="IT" zone="Europe"/>
