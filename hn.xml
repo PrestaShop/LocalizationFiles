@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<localizationPack name="Honduras" version="1.0">
+        	<currencies>
+                   	<currency name="Lempira" iso_code="HNL" iso_code_num="340" sign="HNL" blank="1" format="2" decimals="1" />
+        	</currencies>
+        	<languages>
+                   	<language iso_code="es" />
+        	</languages>
+        	<taxes>
+                   	<tax id="1" name="ƏDV HN 15%" rate="15" />
+                   	<tax id="2" name="ƏDV HN 0%" rate="0" />
+ 
+                   	<taxRulesGroup name="HN Standard Rate (15%)">
+                               	<taxRule iso_code_country="hn" id_tax="1" />
+                   	</taxRulesGroup>
+ 
+                   	<taxRulesGroup name="HN Zero Rate (0%)">
+                               	<taxRule iso_code_country="hn" id_tax="2" />
+                   	</taxRulesGroup>
+        	</taxes>
+        	<units>
+                   	<unit type="weight" value="kg" />
+                   	<unit type="volume" value="L" />
+                   	<unit type="short_distance" value="cm" />
+                   	<unit type="base_distance" value="m" />
+                   	<unit type="long_distance" value="km" />
+        	</units>
+</localizationPack>
