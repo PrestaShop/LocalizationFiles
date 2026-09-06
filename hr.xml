@@ -22,23 +22,22 @@
     <tax id="13" name="IVA ES 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
     <tax id="14" name="ALV FI 25.5%" rate="25.5" auto-generated="1" from-eu-tax-group="virtual"/>
     <tax id="15" name="TVA FR 20%" rate="20" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="16" name="VAT UK 20%" rate="20.0" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="17" name="&#x3A6;&#x3A0;&#x391; GR 24%" rate="24" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="18" name="&#xC1;FA HU 27%" rate="27" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="19" name="VAT IE 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="20" name="IVA IT 22%" rate="22" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="21" name="PVM LT 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="22" name="TVA LU 17%" rate="17" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="23" name="PVN LV 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="24" name="TVA MC 20%" rate="20" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="25" name="VAT MT 18%" rate="18" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="26" name="BTW NL 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="27" name="PTU PL 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="28" name="IVA PT 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="29" name="TVA RO 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="30" name="Moms SE 25%" rate="25" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="31" name="DDV SI 22%" rate="22" auto-generated="1" from-eu-tax-group="virtual"/>
-    <tax id="32" name="DPH SK 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="16" name="&#x3A6;&#x3A0;&#x391; GR 24%" rate="24" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="17" name="&#xC1;FA HU 27%" rate="27" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="18" name="VAT IE 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="19" name="IVA IT 22%" rate="22" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="20" name="PVM LT 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="21" name="TVA LU 17%" rate="17" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="22" name="PVN LV 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="23" name="TVA MC 20%" rate="20" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="24" name="VAT MT 18%" rate="18" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="25" name="BTW NL 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="26" name="PTU PL 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="27" name="IVA PT 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="28" name="TVA RO 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="29" name="Moms SE 25%" rate="25" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="30" name="DDV SI 22%" rate="22" auto-generated="1" from-eu-tax-group="virtual"/>
+    <tax id="31" name="DPH SK 23%" rate="23" auto-generated="1" from-eu-tax-group="virtual"/>
     <taxRulesGroup name="Croatia Standard Rate 25%">
       <taxRule iso_code_country="be" id_tax="1"/>
       <taxRule iso_code_country="bg" id_tax="1"/>
@@ -68,7 +67,6 @@
       <taxRule iso_code_country="sk" id_tax="1"/>
       <taxRule iso_code_country="fi" id_tax="1"/>
       <taxRule iso_code_country="se" id_tax="1"/>
-      <taxRule iso_code_country="uk" id_tax="1"/>
     </taxRulesGroup>
     <taxRulesGroup name="Croatia Reduced Rate 13%">
       <taxRule iso_code_country="be" id_tax="2"/>
@@ -99,7 +97,6 @@
       <taxRule iso_code_country="sk" id_tax="2"/>
       <taxRule iso_code_country="fi" id_tax="2"/>
       <taxRule iso_code_country="se" id_tax="2"/>
-      <taxRule iso_code_country="uk" id_tax="2"/>
     </taxRulesGroup>
     <taxRulesGroup name="Croatia Reduced Rate 5%">
       <taxRule iso_code_country="be" id_tax="3"/>
@@ -130,7 +127,6 @@
       <taxRule iso_code_country="sk" id_tax="3"/>
       <taxRule iso_code_country="fi" id_tax="3"/>
       <taxRule iso_code_country="se" id_tax="3"/>
-      <taxRule iso_code_country="uk" id_tax="3"/>
     </taxRulesGroup>
     <taxRulesGroup name="Croatia Zero Rate 0%">
       <taxRule iso_code_country="be" id_tax="4"/>
@@ -161,7 +157,6 @@
       <taxRule iso_code_country="sk" id_tax="4"/>
       <taxRule iso_code_country="fi" id_tax="4"/>
       <taxRule iso_code_country="se" id_tax="4"/>
-      <taxRule iso_code_country="uk" id_tax="4"/>
     </taxRulesGroup>
     <taxRulesGroup name="EU VAT For Virtual Products" auto-generated="1" eu-tax-group="virtual">
       <taxRule iso_code_country="hr" id_tax="1"/>
@@ -176,47 +171,46 @@
       <taxRule iso_code_country="es" id_tax="13"/>
       <taxRule iso_code_country="fi" id_tax="14"/>
       <taxRule iso_code_country="fr" id_tax="15"/>
-      <taxRule iso_code_country="gb" id_tax="16"/>
-      <taxRule iso_code_country="gr" id_tax="17"/>
-      <taxRule iso_code_country="hu" id_tax="18"/>
-      <taxRule iso_code_country="ie" id_tax="19"/>
-      <taxRule iso_code_country="it" id_tax="20"/>
-      <taxRule iso_code_country="lt" id_tax="21"/>
-      <taxRule iso_code_country="lu" id_tax="22"/>
-      <taxRule iso_code_country="lv" id_tax="23"/>
-      <taxRule iso_code_country="mc" id_tax="24"/>
-      <taxRule iso_code_country="mt" id_tax="25"/>
-      <taxRule iso_code_country="nl" id_tax="26"/>
-      <taxRule iso_code_country="pl" id_tax="27"/>
-      <taxRule iso_code_country="pt" id_tax="28"/>
-      <taxRule iso_code_country="ro" id_tax="29"/>
-      <taxRule iso_code_country="se" id_tax="30"/>
-      <taxRule iso_code_country="si" id_tax="31"/>
-      <taxRule iso_code_country="sk" id_tax="32"/>
+      <taxRule iso_code_country="gr" id_tax="16"/>
+      <taxRule iso_code_country="hu" id_tax="17"/>
+      <taxRule iso_code_country="ie" id_tax="18"/>
+      <taxRule iso_code_country="it" id_tax="19"/>
+      <taxRule iso_code_country="lt" id_tax="20"/>
+      <taxRule iso_code_country="lu" id_tax="21"/>
+      <taxRule iso_code_country="lv" id_tax="22"/>
+      <taxRule iso_code_country="mc" id_tax="23"/>
+      <taxRule iso_code_country="mt" id_tax="24"/>
+      <taxRule iso_code_country="nl" id_tax="25"/>
+      <taxRule iso_code_country="pl" id_tax="26"/>
+      <taxRule iso_code_country="pt" id_tax="27"/>
+      <taxRule iso_code_country="ro" id_tax="28"/>
+      <taxRule iso_code_country="se" id_tax="29"/>
+      <taxRule iso_code_country="si" id_tax="30"/>
+      <taxRule iso_code_country="sk" id_tax="31"/>
     </taxRulesGroup>
   </taxes>
   <states>
-    <state name="Bjelovarsko-bilogorska županija" iso_code="07" country="HR" zone="Europe" />
-    <state name="Brodsko-posavska županija" iso_code="12" country="HR" zone="Europe" />
-    <state name="Dubrovačko-neretvanska županija" iso_code="19" country="HR" zone="Europe" />
-    <state name="Grad Zagreb" iso_code="21" country="HR" zone="Europe" />
-    <state name="Istarska županija" iso_code="18" country="HR" zone="Europe" />
-    <state name="Karlovačka županija" iso_code="04" country="HR" zone="Europe" />
-    <state name="Koprivničko-križevačka županija" iso_code="06" country="HR" zone="Europe" />
-    <state name="Krapinsko-zagorska županija" iso_code="02" country="HR" zone="Europe" />
-    <state name="Ličko-senjska županija" iso_code="09" country="HR" zone="Europe" />
-    <state name="Međimurska županija" iso_code="20" country="HR" zone="Europe" />
-    <state name="Osječko-baranjska županija" iso_code="14" country="HR" zone="Europe" />
-    <state name="Požeško-slavonska županija" iso_code="11" country="HR" zone="Europe" />
-    <state name="Primorsko-goranska županija" iso_code="08" country="HR" zone="Europe" />
-    <state name="Šibensko-kninska županija" iso_code="15" country="HR" zone="Europe" />
-    <state name="Sisačko-moslavačka županija" iso_code="03" country="HR" zone="Europe" />
-    <state name="Splitsko-dalmatinska županija" iso_code="17" country="HR" zone="Europe" />
-    <state name="Varaždinska županija" iso_code="05" country="HR" zone="Europe" />
-    <state name="Virovitičko-podravska županija" iso_code="10" country="HR" zone="Europe" />
-    <state name="Vukovarsko-srijemska županija" iso_code="16" country="HR" zone="Europe" />
-    <state name="Zadarska županija" iso_code="13" country="HR" zone="Europe" />
-    <state name="Zagrebačka županija" iso_code="01" country="HR" zone="Europe" />
+    <state name="Bjelovarsko-bilogorska &#x17E;upanija" iso_code="07" country="HR" zone="Europe"/>
+    <state name="Brodsko-posavska &#x17E;upanija" iso_code="12" country="HR" zone="Europe"/>
+    <state name="Dubrova&#x10D;ko-neretvanska &#x17E;upanija" iso_code="19" country="HR" zone="Europe"/>
+    <state name="Grad Zagreb" iso_code="21" country="HR" zone="Europe"/>
+    <state name="Istarska &#x17E;upanija" iso_code="18" country="HR" zone="Europe"/>
+    <state name="Karlova&#x10D;ka &#x17E;upanija" iso_code="04" country="HR" zone="Europe"/>
+    <state name="Koprivni&#x10D;ko-kri&#x17E;eva&#x10D;ka &#x17E;upanija" iso_code="06" country="HR" zone="Europe"/>
+    <state name="Krapinsko-zagorska &#x17E;upanija" iso_code="02" country="HR" zone="Europe"/>
+    <state name="Li&#x10D;ko-senjska &#x17E;upanija" iso_code="09" country="HR" zone="Europe"/>
+    <state name="Me&#x111;imurska &#x17E;upanija" iso_code="20" country="HR" zone="Europe"/>
+    <state name="Osje&#x10D;ko-baranjska &#x17E;upanija" iso_code="14" country="HR" zone="Europe"/>
+    <state name="Po&#x17E;e&#x161;ko-slavonska &#x17E;upanija" iso_code="11" country="HR" zone="Europe"/>
+    <state name="Primorsko-goranska &#x17E;upanija" iso_code="08" country="HR" zone="Europe"/>
+    <state name="&#x160;ibensko-kninska &#x17E;upanija" iso_code="15" country="HR" zone="Europe"/>
+    <state name="Sisa&#x10D;ko-moslava&#x10D;ka &#x17E;upanija" iso_code="03" country="HR" zone="Europe"/>
+    <state name="Splitsko-dalmatinska &#x17E;upanija" iso_code="17" country="HR" zone="Europe"/>
+    <state name="Vara&#x17E;dinska &#x17E;upanija" iso_code="05" country="HR" zone="Europe"/>
+    <state name="Viroviti&#x10D;ko-podravska &#x17E;upanija" iso_code="10" country="HR" zone="Europe"/>
+    <state name="Vukovarsko-srijemska &#x17E;upanija" iso_code="16" country="HR" zone="Europe"/>
+    <state name="Zadarska &#x17E;upanija" iso_code="13" country="HR" zone="Europe"/>
+    <state name="Zagreba&#x10D;ka &#x17E;upanija" iso_code="01" country="HR" zone="Europe"/>
   </states>
   <units>
     <unit type="weight" value="kg"/>
