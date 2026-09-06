@@ -7,7 +7,7 @@
     <language iso_code="gb"/>
   </languages>
   <taxes>
-    <tax id="1" name="VAT UK 20%" rate="20.0" eu-tax-group="virtual"/>
+    <tax id="1" name="VAT UK 20%" rate="20.0"/>
     <tax id="2" name="VAT UK 5%" rate="5"/>
     <tax id="3" name="USt. AT 20%" rate="20" auto-generated="1" from-eu-tax-group="virtual"/>
     <tax id="4" name="TVA BE 21%" rate="21" auto-generated="1" from-eu-tax-group="virtual"/>
